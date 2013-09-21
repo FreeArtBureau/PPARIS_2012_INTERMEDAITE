@@ -6,7 +6,8 @@ INTERMEDIATE WORKSHOPS SKETCHES
 Julien Gachadoat
 http://www.v3ga.net/blog2/
 
-Language : Processing 
+Language : Processing
+Contents : Box2d & Geomerative 
 
 ===============
 
